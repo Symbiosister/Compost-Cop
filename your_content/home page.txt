@@ -1,5 +1,15 @@
 GreenGeeks Affiliate link: 
 
+<html>
+<style>
+a {
+  color: limegreen;
+}
+</style>
 
-a.https://www.greengeeks.com/track/u182893/cp-default/lp-1
+
+<p><b><a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1" target="_blank">CLICK IT!!!!!!</a></b></p>
+
+</html>
+
 click it clikc it clikc it!!!!!!!
