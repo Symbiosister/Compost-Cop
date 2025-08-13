@@ -1,19 +1,8 @@
 GreenGeeks Affiliate link: 
 
 <html>
-<style>
-a {
-  color: limegreen;
-}
-</style>
-
-
-<p><b><a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1" target="_blank">CLICK IT!!!!!!</a></b></p>
-
-</html>
-
-<html>
 <head>
+<p><b>
 <style>
 a:link {
   background-color: #F0FF00;
@@ -56,9 +45,7 @@ a:active {
 </head>
 <body>
 
-<h2>Styling a link with background-color property</h2>
-
-<p><b><a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">This is a link</a></b></p>
+<a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">This is a link</a></b></p>
 
 
 </body>
