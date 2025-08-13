@@ -61,12 +61,12 @@ div#blurb {
     padding: 15px 15px 10px 15px;
 }
 
-h1#page-title {
+h1#post-title {
     margin-top: 5px;
     margin-bottom: 10px;
 }
 
-h3#post-date {
+h3#_post_date {
     margin-top: 1em;
     margin-bottom: 0.25em;
 }
@@ -264,16 +264,16 @@ div#blurb {
     border-right: 3px dotted lightslategray;
 }
 
-h1#page-title {
+h1#post-title {
     color: black;  /* Color of the page title */
     font-size: 3em;  /* Font size of the post title */
 }
 
-div#post-date {
+div#_post_date {
     font-weight: bold;  /* Delete this to unbold the post date */
 }
 
-div#storyline, div#characters, div#tags {
+div#_storyline, div#_characters, div#tags {
     font-style: italic;  /* Delete this to unitalicize the tags */
 }
 
