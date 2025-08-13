@@ -15,8 +15,64 @@ body {
                                                        or replace with your own image to tile across your background. */
 }
 
-a {
-    color: #2D7900;  /* The color of the hyperlinks */
+a:link {
+  background-color: #F0FF00;
+  color: #2D7900;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
+}
+
+a:visited {
+  background-color: #F0FF00;
+  color: #F0FF00;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
+}
+
+a:hover {
+  background-color: #F0FF00;
+  color: #44F5F0;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-family: magneto
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
+}
+
+a:active {
+  background-color: #F0FF00;
+  color: #FF003A;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Comic Relief
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
+} 
+
 }
 
 div#container {
@@ -30,7 +86,7 @@ div#links-bar {
 }
 
 a.link-bar-link {
-    color: #57E100;  /* The color of the links in your links bar */
+    color: #2D7900;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
 }
@@ -59,7 +115,7 @@ div#blurb {
 }
 
 h1#page-title {
-    color: black;  /* Color of the page title */
+    color: #2D7900;  /* Color of the page title */
     font-size: 3em;  /* Font size of the post title */
 }
 
