@@ -1,6 +1,6 @@
 GreenGeeks Affiliate link: 
 
-<f>
+<p>
 <html>
 <head>
 <style>
@@ -71,6 +71,6 @@ a:active {
 </body>
 </html>
 
-</f>
+</p>
 
 click it clikc it clikc it!!!!!!!
