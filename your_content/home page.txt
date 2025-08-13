@@ -1,8 +1,8 @@
 GreenGeeks Affiliate link: 
 
+<p><b>
 <html>
 <head>
-<p><b>
 <style>
 a:link {
   background-color: #F0FF00;
@@ -11,6 +11,11 @@ a:link {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
 }
 
 a:visited {
@@ -20,6 +25,11 @@ a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
 }
 
 a:hover {
@@ -30,6 +40,11 @@ a:hover {
   text-decoration: underline;
   display: inline-block;
   font-family: magneto
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
 }
 
 a:active {
@@ -40,15 +55,21 @@ a:active {
   text-decoration: none;
   display: inline-block;
   font-family: Comic Relief
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
 } 
 </style>
 </head>
 <body>
 
-<a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">This is a link</a></b></p>
+<a href="https://www.greengeeks.com/track/u182893/cp-default/lp-7">This is a link</a>
 
 
 </body>
 </html>
+</b></p>
 
 click it clikc it clikc it!!!!!!!
