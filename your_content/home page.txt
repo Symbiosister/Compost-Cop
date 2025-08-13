@@ -3,7 +3,7 @@
 <head>
 <style>
 
-GreenGeeks Affiliate link: 
+<p> GreenGeeks Affiliate link: </p>
 
 #affiliate {
   text-align: center;
@@ -15,7 +15,7 @@ GreenGeeks Affiliate link:
 
 <a id="affiliate" href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
 
-click it clikc it clikc it!!!!!!!
+<p> click it clikc it clikc it!!!!!!! </p>
 
 </body>
 </html>
