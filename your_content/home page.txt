@@ -20,7 +20,7 @@
 #affiliate:visited {
   background-color: #F0FF00;
   color: #F0FF00;
-  padding: 14px 25px;
+  padding: 14px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
