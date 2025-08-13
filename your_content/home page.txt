@@ -1,6 +1,11 @@
 GreenGeeks Affiliate link: 
 
-<a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
+<#affiliate {
+   text-align: center;
+   color: orange;
+}
+
+<a id="affiliate" href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
 
 </p>
 
