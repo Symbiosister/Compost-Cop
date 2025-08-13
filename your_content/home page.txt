@@ -1,12 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
 GreenGeeks Affiliate link: 
 
-<#affiliate {
-   text-align: center;
-   color: orange;
+#affiliate {
+  text-align: center;
+  color: red;
 }
+</style>
+</head>
+<body>
 
 <a id="affiliate" href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
 
-</p>
-
 click it clikc it clikc it!!!!!!!
+
+</body>
+</html>
+
+
+
+
