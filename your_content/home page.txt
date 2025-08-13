@@ -1,6 +1,7 @@
 GreenGeeks Affiliate link: 
 
 <p>
+<!DOCTYPE html>
 <html>
 <head>
 <style>
