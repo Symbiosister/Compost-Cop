@@ -17,7 +17,8 @@ body {
 
 div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: white;  /* The background color of the main box */
+    background-color: #F0FF00;  /* The background color of the main box */
+    background-image: url("../../../images/framing_device.png")
     box-shadow: 5px 5px 10px #44F5F0;  /* If you change the background color of website, play with this or else it will look bad. */
 }
 
