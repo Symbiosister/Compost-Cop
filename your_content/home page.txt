@@ -1,5 +1,71 @@
 GreenGeeks Affiliate link: 
 
+<<<<<<< HEAD
 [https://www.greengeeks.com/track/u182893/cp-default/lp-7 "CLICK IT!!!"]
+=======
+<html>
+<style>
+a {
+  color: limegreen;
+}
+</style>
+
+
+<p><b><a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1" target="_blank">CLICK IT!!!!!!</a></b></p>
+
+</html>
+
+<html>
+<head>
+<style>
+a:link {
+  background-color: #F0FF00;
+  color: #57E100;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:visited {
+  background-color: #F0FF00;
+  color: #F0FF00;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  background-color: #F0FF00;
+  color: #44F5F0;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-family: magneto
+}
+
+a:active {
+  background-color: #F0FF00;
+  color: #FF003A;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Comic Relief
+} 
+</style>
+</head>
+<body>
+
+<h2>Styling a link with background-color property</h2>
+
+<p><b><a href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">This is a link</a></b></p>
+
+
+</body>
+</html>
+>>>>>>> parent of 417d77b (Update home page.txt)
 
 click it clikc it clikc it!!!!!!!
