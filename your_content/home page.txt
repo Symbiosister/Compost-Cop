@@ -11,7 +11,7 @@
   text-decoration: none;
   display: inline-block;
   border-radius: 25px;
-  border: 2px solid #73AD21;
+  border: 5px solid #73AD21;
   width: 87px;
   height: 30px;
 }
@@ -24,7 +24,7 @@
   text-decoration: none;
   display: inline-block;
   border-radius: 25px;
-  border: 2px solid #73AD21;
+  border: 5px solid #73AD21;
   width: 87px;
   height: 25px;
 }
@@ -38,7 +38,7 @@
   display: inline-block;
   font-family: magneto;
   border-radius: 25px;
-  border: 2px solid #73AD21;
+  border: 5px solid #73AD21;
   width: 87px;
   height: 30px;
 }
@@ -52,7 +52,7 @@
   display: inline-block;
   font-family: Comic Relief;
   border-radius: 25px;
-  border: 2px solid #73AD21;
+  border: 5px solid #73AD21;
   width: 87px;
   height: 30px;
 } 
