@@ -35,20 +35,8 @@ a.link-bar-link {
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
 }
 
-a.link-bar-link:hover {
-    color: black;  /* The color of the links in your links bar while the cursor is hovering over them */
-}
-
-a.navigation-button {
-    color: maroon;  /* Color of the navigation bar hyperlinks */
-    font-size: 2em;  /* Size of the navigation bar hyperlinks */
-    text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
-}
-
-a.navigation-button-disabled {
-    color: gray;  /* Color of the disabled navigation bar hyperlinks */
-    font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
-    text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
+a {
+    color: #2D7900;  /* The color of the hyperlinks */
 }
 
 div#blurb {
