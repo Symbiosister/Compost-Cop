@@ -28,7 +28,7 @@
   border: 2px solid #73AD21;
   padding: 20px;
   width: 80px;
-  height: 30px;
+  height: 25px;
 }
 
 #affiliate:hover {
@@ -38,7 +38,7 @@
   text-align: center;
   text-decoration: underline;
   display: inline-block;
-  font-family: magneto;
+  font-family: magneto
   border-radius: 25px;
   border: 2px solid #73AD21;
   padding: 20px;
@@ -53,7 +53,7 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-family: Comic Relief;
+  font-family: Comic Relief
   border-radius: 25px;
   border: 2px solid #73AD21;
   padding: 20px;
