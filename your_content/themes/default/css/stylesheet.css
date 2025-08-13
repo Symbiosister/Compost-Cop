@@ -22,7 +22,7 @@ a {
 div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
     background-color: white;  /* The background color of the main box */
-    box-shadow: 5px 5px 10px #58E300;  /* If you change the background color of website, play with this or else it will look bad. */
+    box-shadow: 5px 5px 10px #44F5F0;  /* If you change the background color of website, play with this or else it will look bad. */
 }
 
 div#links-bar {
@@ -30,7 +30,7 @@ div#links-bar {
 }
 
 a.link-bar-link {
-    color: #57E100;  /* The color of the links in your links bar */
+    color: #2D7900;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
 }
