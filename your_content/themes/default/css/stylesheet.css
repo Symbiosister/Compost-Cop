@@ -9,14 +9,14 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
 
 body {
     font-family: 'Comic Relief', sans-serif;  /* The font of all the text on all pages */
-    color: black;  /* The color of the font of most of the text on your website */
-    background-color: white;  /* The color of the background behind everything */
+    color: #2D7900;  /* The color of the font of most of the text on your website */
+    background-color: #F0FF00;  /* The color of the background behind everything */
     background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
                                                        or replace with your own image to tile across your background. */
 }
 
 a {
-    color: maroon;  /* The color of the hyperlinks */
+    color: #2D7900;  /* The color of the hyperlinks */
 }
 
 div#container {
@@ -26,11 +26,11 @@ div#container {
 }
 
 div#links-bar {
-    background-color: indianred;  /* The background color of your links bar */
+    background-color: #F0FF00;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
-    color: white;  /* The color of the links in your links bar */
+    color: #57E100;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
 }
