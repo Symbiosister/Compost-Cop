@@ -60,6 +60,20 @@ a.link-bar-link:hover {
     width: 51;
 }
 
+a.link-bar-link:active {
+  color: #FF003A;
+  background-color: #FF6800;
+  font-weight: bold;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  border: 5px solid #4BC400;
+  text-shadow: 2px 2px 5px #F7B400;
+  width: 51px;
+} 
+
 a {
     color: #4BC400;  /* The color of the hyperlinks */
 }
