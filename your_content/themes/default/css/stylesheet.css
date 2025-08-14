@@ -31,7 +31,7 @@ div#links-bar {
     text-align: center;
     display: inline;
     height: 75px;
-    width: 420px;
+    width: 333px;
 }
 
 a.link-bar-link {
@@ -41,7 +41,7 @@ a.link-bar-link {
     padding: 12px 12px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     border-radius: 25px;
     border: 5px solid #4BC400;
     width: 51px;
@@ -54,7 +54,7 @@ a.link-bar-link:hover {
     padding: 12px 12px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     border-radius: 25px;
     border: 5px solid #4BC400;
     text-shadow: 2px 2px 5px #9AFAF7;
@@ -68,7 +68,7 @@ a.link-bar-link:active {
     padding: 12px 12px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     border-radius: 25px;
     border: 5px solid #4BC400;
     text-shadow: 2px 2px 5px #F7B400;
