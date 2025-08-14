@@ -29,6 +29,7 @@ div#links-bar {
     border-radius: 25px;
     border: 5px solid #4BC400;
     height: 68px;
+    vertical-align: baseline;
 }
 
 a.link-bar-link {
