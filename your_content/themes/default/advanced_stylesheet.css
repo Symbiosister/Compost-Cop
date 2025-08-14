@@ -77,7 +77,7 @@ h3#_post_date {
 
 hr#post-body-break {
     margin: 1em 0;
-    color: #4BC400;
+    display: none;
 }
 
 div#archives {
