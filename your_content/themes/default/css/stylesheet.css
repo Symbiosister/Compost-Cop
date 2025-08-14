@@ -44,7 +44,7 @@ a.link-bar-link {
     border-radius: 25px;
     border: 5px solid #4BC400;
     display: inline-block;
-    width: 57;
+    width: 51;
 }
 
 a.link-bar-link:hover {
@@ -56,7 +56,7 @@ a.link-bar-link:hover {
     border: 5px solid #4BC400;
     text-align: center;
     display: inline-block;
-    width: 57;
+    width: 51;
 }
 
 a {
