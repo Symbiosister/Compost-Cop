@@ -2,6 +2,10 @@
 
 body {
     text-align: center;
+    background-color:#F0FF00;
+    padding: 15px 15px;
+    border-radius: 25px;
+    border: 5px solid #4BC400;
 }
 
 div#container {
