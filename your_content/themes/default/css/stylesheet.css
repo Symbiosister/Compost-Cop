@@ -28,8 +28,8 @@ div#links-bar {
     background-color: #F0FF00;  /* The background color of your links bar */
     border-radius: 25px;
     border: 5px solid #4BC400;
-    height: 68px;
-    line_height: 68px;
+    width: 105px;
+    height: 69px;
 }
 
 a.link-bar-link {
@@ -38,8 +38,7 @@ a.link-bar-link {
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
     border-radius: 25px;
     border: 5px solid #4BC400;
-    width: 105px;
-    line_height: 34px;
+    display: inline;
 }
 
 a.link-bar-link:hover {
@@ -47,7 +46,7 @@ a.link-bar-link:hover {
     background-color:#F0FF00;
     border-radius: 25px;
     border: 5px solid #4BC400;
-    line_height: 34px;
+    display: inline;
 }
 
 a {
