@@ -45,7 +45,7 @@
 }
 
 #affiliate:active {
-  background-color: #F0FF00;
+  background-color: #FF6800;
   color: #FF003A;
   padding: 14px 15px;
   text-align: center;
@@ -53,6 +53,7 @@
   display: inline-block;
   font-family: Comic Relief;
   border-radius: 25px;
+  text-shadow: 2px 2px 5px #F7B400;
   border: 5px solid #4BC400;
   width: 97px;
   height: 25px;
