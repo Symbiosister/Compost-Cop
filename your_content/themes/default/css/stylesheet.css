@@ -84,9 +84,9 @@ a {
 div#blurb {
     background-color: lightgray;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
     width: 75%;  /* The maximum width of the blurb box. */
-    border-left: 3px dotted lightslategray;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
-    background-image: url("../../../images/framing_device.png")
-    border-right: 3px dotted lightslategray;
+    background-image: url("../../../images/framing_device.png");
+    border-radius: 25px;
+    border: 5px solid #4BC400;
 }
 
 h1#page-title {
