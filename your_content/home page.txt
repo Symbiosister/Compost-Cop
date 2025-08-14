@@ -6,11 +6,11 @@
 #affiliate:link {
   background-color: #F0FF00;
   color: #4BC400;
-  padding: 15px 15px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 25px;
+  border-radius: 20px;
   border: 5px solid #4BC400;
   width: 97px;
   height: 25px;
@@ -19,11 +19,11 @@
 #affiliate:visited {
   background-color: #F0FF00;
   color: #F0FF00;
-  padding: 15px 15px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 25px;
+  border-radius: 20px;
   border: 5px solid #4BC400;
   width: 97px;
   height: 25px;
@@ -32,7 +32,7 @@
 #affiliate:hover {
   background-color: #BDFC92;;
   color: #44F5F0;
-  padding: 15px 15px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: underline;
   display: inline-block;
@@ -41,18 +41,18 @@
   text-shadow: 2px 2px 5px #9AFAF7;
   border: 5px solid #4BC400;
   width: 97px;
-  height: 25px;
+  height: 20px;
 }
 
 #affiliate:active {
   background-color: #FF6800;
   color: #FF003A;
-  padding: 14px 15px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-family: Comic Relief;
-  border-radius: 25px;
+  border-radius: 20px;
   text-shadow: 2px 2px 5px #F7B400;
   border: 5px solid #4BC400;
   width: 97px;
