@@ -17,7 +17,7 @@ body {
 
 div#container {
     background-color: #F0FF00;
-    max-width: 1700px;  /* The width of the main box that contains all content on the pages */
+    max-width: 1333px;  /* The width of the main box that contains all content on the pages */
     background-image: url("../../../images/framing_device.png");
     border-radius: 25px;
     border: 17px solid #612B09;
