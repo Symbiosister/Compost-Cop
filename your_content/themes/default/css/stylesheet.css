@@ -39,7 +39,7 @@ a.link-bar-link {
     color: #4BC400;  /* The color of the links in your links bar */
     background-color: #F0FF00;
     font-weight: bold;
-    padding: 15px 15px;
+    padding: 17px 17px;
     text-align: center;
     text-decoration: none;
     display: inline;
@@ -52,7 +52,7 @@ a.link-bar-link:hover {
     color: #44F5F0;
     background-color: #BDFC92;
     font-weight: bold;
-    padding: 15px 15px;
+    padding: 17px 17px;
     text-align: center;
     text-decoration: none;
     display: inline;
@@ -66,7 +66,7 @@ a.link-bar-link:active {
     color: #FF003A;
     background-color: #FF6800;
     font-weight: bold;
-    padding: 15px 15px;
+    padding: 17px 17px;
     text-align: center;
     text-decoration: none;
     display: inline;
