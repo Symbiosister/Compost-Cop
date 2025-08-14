@@ -30,7 +30,7 @@ div#links-bar {
     background-color: #F0FF00;  /* The background color of your links bar */
     border-radius: 25px;
     border: 5px solid #4BC400;
-    height: 33px;
+    height: 42px;
 }
 
 a.link-bar-link {
@@ -40,7 +40,6 @@ a.link-bar-link {
     border-radius: 25px;
     border: 5px solid #4BC400;
     width: 105px;
-    height: 25px;
 }
 
 a.link-bar-link:hover {
