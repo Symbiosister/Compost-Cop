@@ -13,8 +13,6 @@ body {
     background-color: #F0FF00;  /* The color of the background behind everything */
     background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
                                                        or replace with your own image to tile across your background. */
-    border-radius: 25px;
-    border: 17px solid #612B09;
 }
 
 div#container {
