@@ -33,15 +33,6 @@ div#links-bar {
     height: 33px;
 }
 
-div#links-bar {
-    color: #44F5F0;
-    background-color:#F0FF00;
-    border-radius: 25px;
-    border: 5px solid #4BC400;
-    height: 33px;
-}
-    
-
 a.link-bar-link {
     color: #4BC400;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
@@ -50,6 +41,14 @@ a.link-bar-link {
     border: 5px solid #4BC400;
     width: 105px;
     height: 25px;
+}
+
+a.link-bar-link:hover {
+    color: #44F5F0;
+    background-color:#F0FF00;
+    border-radius: 25px;
+    border: 5px solid #4BC400;
+    height: 33px;
 }
 
 a {
