@@ -20,7 +20,8 @@ div#container {
     background-color: #F0FF00;  /* The background color of the main box */
     background-image: url("../../../images/framing_device.png");
     border-radius: 25px;
-    box-shadow: 5px 5px 10px #FFA467;  /* If you change the background color of website, play with this or else it will look bad. */
+    border: 17px solid #612B09;
+    
 }
 
 div#links-bar {
