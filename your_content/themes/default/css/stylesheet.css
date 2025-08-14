@@ -40,7 +40,7 @@ a.link-bar-link {
     font-weight: bold;
     padding: 15px 15px;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     border-radius: 25px;
     border: 5px solid #4BC400;
     width: 51px;
@@ -52,7 +52,7 @@ a.link-bar-link:hover {
     font-weight: bold;
     padding: 15px 15px;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     border-radius: 25px;
     border: 5px solid #4BC400;
     text-shadow: 2px 2px 5px #9AFAF7;
@@ -65,7 +65,7 @@ a.link-bar-link:active {
   font-weight: bold;
   padding: 15px 15px;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
   border-radius: 25px;
   border: 5px solid #4BC400;
   text-shadow: 2px 2px 5px #F7B400;
