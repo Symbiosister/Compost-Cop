@@ -41,9 +41,9 @@ a.link-bar-link {
     padding: 15px 15px;
     text-align: center;
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+    display: inline-block;
     border-radius: 25px;
     border: 5px solid #4BC400;
-    display: inline-block;
     width: 51;
 }
 
@@ -52,12 +52,13 @@ a.link-bar-link:hover {
     background-color: #BDFC92;
     font-weight: bold;
     padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
     border-radius: 25px;
     border: 5px solid #4BC400;
     text-shadow: 2px 2px 5px #9AFAF7;
-    text-align: center;
-    display: inline-block;
-    width: 51;
+    width: 51px;
 }
 
 a.link-bar-link:active {
