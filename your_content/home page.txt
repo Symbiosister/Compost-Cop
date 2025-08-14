@@ -11,6 +11,7 @@
   text-decoration: none;
   display: inline-block;
   border-radius: 25px;
+  text-shadow: 2px 2px 5px #F0FF00;
   border: 5px solid #4BC400;
   width: 97px;
   height: 20px;
