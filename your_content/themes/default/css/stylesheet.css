@@ -28,12 +28,17 @@ div#container {
 
 div#links-bar {
     background-color: #F0FF00;  /* The background color of your links bar */
+    border-radius: 25px;
+    border: 5px solid #4BC400;
+
 }
 
 a.link-bar-link {
     color: #4BC400;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+    border-radius: 25px;
+    border: 5px solid #4BC400;
 }
 
 a {
