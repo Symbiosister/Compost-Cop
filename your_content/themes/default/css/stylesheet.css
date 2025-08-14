@@ -39,7 +39,6 @@ a.link-bar-link {
     background-color: #F0FF00;
     font-weight: bold;
     padding: 15px 15px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     border-radius: 25px;
@@ -52,7 +51,6 @@ a.link-bar-link:hover {
     background-color: #BDFC92;
     font-weight: bold;
     padding: 15px 15px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     border-radius: 25px;
@@ -66,7 +64,6 @@ a.link-bar-link:active {
   background-color: #FF6800;
   font-weight: bold;
   padding: 15px 15px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
   border-radius: 25px;
