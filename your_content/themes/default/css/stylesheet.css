@@ -39,6 +39,7 @@ a.link-bar-link {
     background-color: #F0FF00;
     font-weight: bold;
     padding: 15px 15px;
+    text-align: center;
     text-decoration: none;
     display: inline;
     border-radius: 25px;
@@ -51,6 +52,7 @@ a.link-bar-link:hover {
     background-color: #BDFC92;
     font-weight: bold;
     padding: 15px 15px;
+    text-align: center;
     text-decoration: none;
     display: inline;
     border-radius: 25px;
@@ -60,16 +62,17 @@ a.link-bar-link:hover {
 }
 
 a.link-bar-link:active {
-  color: #FF003A;
-  background-color: #FF6800;
-  font-weight: bold;
-  padding: 15px 15px;
-  text-decoration: none;
-  display: inline;
-  border-radius: 25px;
-  border: 5px solid #4BC400;
-  text-shadow: 2px 2px 5px #F7B400;
-  width: 51px;
+    color: #FF003A;
+    background-color: #FF6800;
+    font-weight: bold;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    border-radius: 25px;
+    border: 5px solid #4BC400;
+    text-shadow: 2px 2px 5px #F7B400;
+    width: 51px;
 } 
 
 a {
