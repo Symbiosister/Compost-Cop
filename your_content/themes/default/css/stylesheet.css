@@ -10,7 +10,7 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
 body {
     font-family: 'Comic Relief', sans-serif;  /* The font of all the text on all pages */
     color: #4BC400;  /* The color of the font of most of the text on your website */
-    text-shadow: -1px 0 #612B09, 0 1px #612B09, 1px 0 #612B09, 0 -1px #612B09;
+    text-shadow: -2px 0 #612B09, 0 2px #612B09, 2px 0 #612B09, 0 -2px #612B09;
     background-color: #612B09;  /* The color of the background behind everything */
     background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
                                                        or replace with your own image to tile across your background. */
