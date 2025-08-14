@@ -34,7 +34,6 @@ div#links-bar {
     width: 420px;
 }
 
-
 a.link-bar-link {
     color: #4BC400;  /* The color of the links in your links bar */
     background-color: #F0FF00;
@@ -75,7 +74,6 @@ a.link-bar-link:active {
     text-shadow: 2px 2px 5px #F7B400;
     width: 51px;
 } 
-
 
 a {
     color: #4BC400;  /* The color of the hyperlinks */
