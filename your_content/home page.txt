@@ -10,10 +10,10 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 20px;
+  border-radius: 25px;
   border: 5px solid #4BC400;
   width: 97px;
-  height: 25px;
+  height: 20px;
 }
 
 #affiliate:visited {
@@ -23,10 +23,10 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 20px;
+  border-radius: 25px;
   border: 5px solid #4BC400;
   width: 97px;
-  height: 25px;
+  height: 20px;
 }
 
 #affiliate:hover {
@@ -52,11 +52,11 @@
   text-decoration: none;
   display: inline-block;
   font-family: Comic Relief;
-  border-radius: 20px;
+  border-radius: 25px;
   text-shadow: 2px 2px 5px #F7B400;
   border: 5px solid #4BC400;
   width: 97px;
-  height: 25px;
+  height: 20px;
 } 
 
 </style>
