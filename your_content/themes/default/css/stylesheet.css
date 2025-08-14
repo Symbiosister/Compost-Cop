@@ -30,7 +30,7 @@ div#links-bar {
     background-color: #F0FF00;  /* The background color of your links bar */
     border-radius: 25px;
     border: 5px solid #4BC400;
-
+    height: 33px;
 }
 
 a.link-bar-link {
@@ -39,6 +39,8 @@ a.link-bar-link {
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
     border-radius: 25px;
     border: 5px solid #4BC400;
+    width: 105px;
+    height: 25px;
 }
 
 a {
