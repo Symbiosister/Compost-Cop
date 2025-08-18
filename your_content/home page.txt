@@ -64,7 +64,7 @@
 </head>
 
 <body>
-<p>U+00A0</p>
+<p>•••••</p>
 <p>•••••••</p>
 <p>•••••</p>
 <p>GreenGeeks Affiliate link: </p>
