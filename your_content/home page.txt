@@ -65,6 +65,7 @@
 
 <body>
 <p>•••••</p>
+<p>&nbsp;</p>
 <p>•••••••</p>
 <p>•••••</p>
 <p>GreenGeeks Affiliate link: </p>
