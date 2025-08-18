@@ -64,9 +64,9 @@
 </head>
 
 <body>
-<p>⚫⚫⚫</p>
-<p>⚫⚫⚫⚫⚫</p>
-<p>⚫⚫⚫</p>
+<p>•••</p>
+<p>•••••</p>
+<p>•••</p>
 <p>GreenGeeks Affiliate link: </p>
 
 <a id="affiliate" href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
