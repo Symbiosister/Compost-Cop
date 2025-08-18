@@ -67,11 +67,19 @@
 
 <p>&nbsp;</p>
 
+div#container {
+    max-width: 30%; 
+    background-color: #4BC400;
+
 <p> _,-._</p>
 <p>/ \_/ \</p>
-<p>&gt;-(_)-&lt;</p>
+<p>>-(_)-<</p>
 <p>\_/ \_/</p>
 <p>`-'</p></p>
+
+  
+}
+
 
 
 <p>&nbsp;</p>
