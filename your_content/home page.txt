@@ -61,7 +61,7 @@
 } 
 
 .speakerascii {
-    max-width: 95%;
+    max-width: 5%;
     background-color: none;
     border-radius: 25px;
     text-align: center;
@@ -76,9 +76,9 @@
 <body>
 
 <div class="speakerascii">
-<p> •••                                                                                                                             •••
-••••                                                                                                                           ••••
- •••                                                                                                                             •••</p>
+<p> •••
+••••
+ •••  </p>
 
 </div>
 
