@@ -67,7 +67,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   text-align: center;
-  dispaly: inline-block;
+  display: inline-block;
 }
 
 .asciiL {
@@ -91,16 +91,16 @@
 
 
 <div id="speakerascii">
-    <div class="asciiL">  •••
+    <div class="asciiL">•••
 ••••••
-  •••</div>
+•••</div>
     <div class="asciiR">  •••
 ••••••
   •••</div>
  
- <div class="dead">.</div>
+ <div class="dead">&nbsp;</div>
 
- <div class="dead">.</div>
+ <div class="dead">&nbsp;</div>
 
 </div>
 
