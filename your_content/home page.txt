@@ -70,18 +70,15 @@
     color: black;
 }
 
-
 </style>
 </head>
 
 <body>
 
 <div class="speakerascii">
-<p>
-•••                                                                                                                            •••
+<p>•••                                                                                                                            •••
 ••••                                                                                                                           ••••
-•••                                                                                                                            •••
-</p>
+•••                                                                                                                            •••</p>
 
 </div>
 
