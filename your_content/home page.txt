@@ -10,15 +10,17 @@
     color: black;
     }
 .dead { grid-area: dead;
-        white-space: pre;
-}
-.affiliate { grid-area: affiliate; }
+    white-space: pre;
+    color: black;
+    }
+.affiliate { grid-area: affiliate; 
+    }
 .asciiR { grid-area: asciiR; 
     white-space: pre;
     justify-self: right;
     width: 10%;
-    color: black;
-}
+    color: black;	
+    }
 
 #grid {
   width: 75%;
