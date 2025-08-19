@@ -76,6 +76,7 @@ h3#_post_date {
 }
 
 hr#post-body-break {
+    margin: 1em 0;
     display: none;
 }
 
@@ -124,17 +125,6 @@ div#jump-to {
 
 a.chapter-links {
     margin-right: 10px;
-    color: #FF003A;
-    background-color: #FF6800;
-    font-weight: bold;
-    padding: 12px 12px;
-    text-align: center;
-    text-decoration: none;
-    display: inline;
-    border-radius: 25px;
-    border: 5px solid #4BC400;
-    text-shadow: 2px 2px 5px #F7B400;
-    width: 51px;
 }
 
 div#load-older {
