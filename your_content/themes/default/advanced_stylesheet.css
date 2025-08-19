@@ -164,7 +164,6 @@ button.accordion-button {
     padding: 18px;
     width: 100%;
     text-align: left;
-    outline: none;
     transition: 0.4s;
 }
 
