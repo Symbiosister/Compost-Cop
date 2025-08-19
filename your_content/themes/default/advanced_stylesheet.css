@@ -235,7 +235,7 @@ div#container {
     box-shadow: 5px 5px 10px lightgray;  /* If you change the background color of website, play with this or else it will look bad. */
 }
 
-div#link-bar {
+div#links-bar {
     background-color: indianred;  /* The background color of your links bar */
 }
 
