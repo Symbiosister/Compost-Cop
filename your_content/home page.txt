@@ -62,7 +62,8 @@
 
 .speakerascii {
     max-width: 10%;
-    background-color: #4BC400;
+    background-color: none;
+    border-radius: 25px;
     text-align: center;
     white-space: pre;
 }
