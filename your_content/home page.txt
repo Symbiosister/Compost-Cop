@@ -110,15 +110,13 @@
 <body>
 
 <div id="grid">
-    <div class="asciiL">  •••
+    <div class="asciiL"> •••
 ••••••
-  •••</div>
-    <div class="asciiR">  •••
+ •••</div>
+    <div class="asciiR"> •••
 ••••••
-  •••</div>
-    <div class="dead">&nbsp;
-•••
-    &nbsp;</div>
+ •••</div>
+    <div class="dead">•••</div>
     <div class="affiliate"><p>GreenGeeks Affiliate link: </p>
 
 <a id="affiliate" href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
