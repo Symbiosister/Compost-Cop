@@ -60,12 +60,19 @@
   height: 20px;
 } 
 
+.asciiL { grid-area: left; }
+.dead { grid-area: main; }
+.affiliate { grid-area: footer; }
+.asciiR { grid-area: right; }
+
 #speakerascii {
   width: 100%;
   aspect-ratio: 7/1;
   border: 1 px solid black;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template: 
+  'left main main main right'
+  'left footer footer footer right';
   text-align: center;
 }
 
@@ -90,6 +97,9 @@
 .dead {
 }
 
+.affiliate {
+}
+
 </style>
 </head>
 <body>
@@ -102,18 +112,16 @@
     <div class="asciiR">•••
 ••••••
 •••</div>
- 
- <div class="dead">&nbsp;</div>
-
- <div class="dead">&nbsp;</div>
-
-</div>
-
-<p>GreenGeeks Affiliate link: </p>
+    <div class="dead"></div>
+    <div class="affiliate"><p>GreenGeeks Affiliate link: </p>
 
 <a id="affiliate" href="https://www.greengeeks.com/track/u182893/cp-default/lp-1">Click IT!!!</a>
 
-<p> click it clikc it clikc it!!!!!!! </p>
+<p> click it clikc it clikc it!!!!!!! </p></div>
+
+</div>
+
+
 
 </body>
 </html>
