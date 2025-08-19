@@ -61,12 +61,13 @@
 } 
 
 .speakerascii {
-    max-width: 10%;
+    max-width: 30%;
     background-color: none;
     border-radius: 25px;
     text-align: center;
     white-space: pre;
     display: inline-block;
+    color: black;
 }
 
 
@@ -85,14 +86,6 @@
 '-'</p>
 
 </div>
-
-<pre>
- _,-._
-/ \_/ \
->-(_)-< 
-\_/ \_/
-  `-'
-</pre>
 
 <p>&nbsp;</p>
 
