@@ -60,11 +60,22 @@
   height: 20px;
 } 
 
-.speakerascii {
+.speakerasciiL {
     max-width: 5%;
     background-color: none;
     border-radius: 25px;
-    text-align: center;
+    text-align: right;
+    white-space: pre;
+    display: inline-block;
+    color: black;
+}
+
+
+.speakerasciiR {
+    max-width: 5%;
+    background-color: none;
+    border-radius: 25px;
+    text-align: left;
     white-space: pre;
     display: inline-block;
     color: black;
@@ -75,7 +86,14 @@
 
 <body>
 
-<div class="speakerascii">
+<div class="speakerasciiL">
+    jutify-items: end;
+<p> •••
+••••
+ •••  </p>
+
+<div class="speakerasciiL">
+    jutify-items: start;
 <p> •••
 ••••
  •••  </p>
