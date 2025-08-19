@@ -106,7 +106,7 @@
 ••••••
   •••</div>
     <div class="dead">&nbsp;
-    &nbsp;
+    •••
     &nbsp;</div>
     <div class="affiliate"><p>GreenGeeks Affiliate link: </p>
 
