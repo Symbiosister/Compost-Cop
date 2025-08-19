@@ -35,7 +35,7 @@ div#links-bar {
     text-shadow: 5px 5px 5px #F0FF00;
 }
 
-a.link-bar-link {
+link-bar-link {
     color: #4BC400;  /* The color of the links in your links bar */
     background-color: #F0FF00;
     font-weight: bold;
@@ -49,7 +49,7 @@ a.link-bar-link {
     width: 51px;
 }
 
-a.link-bar-link:hover {
+link-bar-link:hover {
     color: #44F5F0;
     background-color: #BDFC92;
     font-weight: bold;
@@ -63,7 +63,7 @@ a.link-bar-link:hover {
     width: 51px;
 }
 
-a.link-bar-link:active {
+link-bar-link:active {
     color: #FF003A;
     background-color: #FF6800;
     font-weight: bold;
