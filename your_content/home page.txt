@@ -16,6 +16,7 @@
 .dead { grid-area: dead;
     background-color: #935127
     white-space: pre;
+    width: 10%;
     color: black;
     border-radius: 25px;
     text-shadow: 2px 2px 5px #612B09;
