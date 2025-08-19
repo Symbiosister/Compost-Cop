@@ -60,43 +60,46 @@
   height: 20px;
 } 
 
-.speakerasciiL {
-    max-width: 5%;
-    background-color: none;
-    border-radius: 25px;
-    text-align: right;
-    white-space: pre;
-    display: inline-block;
-    color: black;
+#speakerascii {
+  width: 40%;
+  aspect-ratio: 7/1;
+  border: 1 px solid black;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
 }
 
-
-.speakerasciiR {
-    max-width: 5%;
-    background-color: none;
-    border-radius: 25px;
-    text-align: left;
+.asciiL {
     white-space: pre;
-    display: inline-block;
-    color: black;
+    justify-self: left;
+    width: 10%;
+}
+
+.asciiR {
+    white-space: pre;
+    justify-self: right;
+    width: 10%;
+}
+
+.dead {
 }
 
 </style>
 </head>
-
 <body>
 
-<div class="speakerasciiL">
-    jutify-items: end;
-<p> •••
-••••
- •••  </p>
 
-<div class="speakerasciiL">
-    jutify-items: start;
-<p> •••
-••••
- •••  </p>
+<div id="speakerascii">
+    <div class="asciiL">  •••
+••••••
+  •••</div>
+    <div class="asciiR">  •••
+••••••
+  •••</div>
+ 
+ <div class="dead">.</div>
+
+ <div class="dead">.</div>
 
 </div>
 
