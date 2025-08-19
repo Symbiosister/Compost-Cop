@@ -30,7 +30,7 @@ div#link-bar {
     border-radius: 25px;
     border: 5px solid #4BC400;
     text-align: center;
-    display: inline-block;
+    display: inline;
     height: 75px;
     text-shadow: 5px 5px 5px #F0FF00;
 }
