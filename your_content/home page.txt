@@ -4,6 +4,7 @@
 <style>
 
 .asciiL { grid-area: asciiL; 
+    background-color: #935127
     white-space: pre;
     justify-self: left;
     width: 20%;
@@ -13,6 +14,7 @@
     border: 5px solid #612B09;
     }
 .dead { grid-area: dead;
+    background-color: #935127
     white-space: pre;
     color: black;
     border-radius: 25px;
@@ -22,6 +24,7 @@
 .affiliate { grid-area: affiliate; 
     }
 .asciiR { grid-area: asciiR; 
+    background-color: #935127
     white-space: pre;
     justify-self: right;
     width: 20%;
