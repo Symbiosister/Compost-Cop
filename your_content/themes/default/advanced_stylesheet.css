@@ -58,7 +58,7 @@ a.navigation-button, a.navigation-button-disabled {
 }
 
 div#blurb {
-    display: block;
+    display: inline-block;
     text-align: left;
     max-width: 75%;
     margin-bottom: 20px;
