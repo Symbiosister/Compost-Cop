@@ -8,10 +8,16 @@
     justify-self: left;
     width: 10%;
     color: black;
+    border-radius: 25px;
+    text-shadow: 2px 2px 5px #612B09;
+    border: 5px solid #612B09;
     }
 .dead { grid-area: dead;
     white-space: pre;
     color: black;
+    border-radius: 25px;
+    text-shadow: 2px 2px 5px #612B09;
+    border: 5px solid #612B09;
     }
 .affiliate { grid-area: affiliate; 
     }
@@ -19,7 +25,10 @@
     white-space: pre;
     justify-self: right;
     width: 10%;
-    color: black;	
+    color: black;
+    border-radius: 25px;
+    text-shadow: 2px 2px 5px #612B09;
+    border: 5px solid #612B09;	
     }
 
 #grid {
