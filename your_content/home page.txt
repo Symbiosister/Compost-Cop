@@ -61,7 +61,7 @@
 } 
 
 #speakerascii {
-  width: 105%;
+  width: 100%;
   aspect-ratio: 7/1;
   border: 1 px solid black;
   display: grid;
