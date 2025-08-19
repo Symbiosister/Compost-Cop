@@ -76,9 +76,9 @@
 <body>
 
 <div class="speakerascii">
-<p>•••                                                                                                                             •••
+<p> •••                                                                                                                             •••
 ••••                                                                                                                           ••••
-•••                                                                                                                             •••</p>
+ •••                                                                                                                             •••</p>
 
 </div>
 
