@@ -88,20 +88,9 @@
   text-align: center;
 }
 
-#grid > div {
-    align-self: center;
-}
-
-.dead {
-}
-
-.affiliate {
-}
-
 </style>
 </head>
 <body>
-
 
 <div id="grid">
     <div class="asciiL">  •••
