@@ -87,8 +87,9 @@ div#blurb {
     background-color: #4BC400;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
     width: 75%;  /* The maximum width of the blurb box. */
     background-image: url("../../../images/framing_device.png");
-    border-radius: 25px;
     border: 7px solid #612B09;
+    border-radius: 25px;
+  
 }
 
 h1#page-title {
