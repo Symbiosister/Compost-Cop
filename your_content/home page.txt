@@ -60,6 +60,14 @@
   height: 20px;
 } 
 
+.speakerascii {
+    max-width: 10%;
+    background-color: #4BC400;
+    text-align: center;
+    white-space: pre;
+}
+
+
 </style>
 </head>
 
@@ -67,20 +75,14 @@
 
 <p>&nbsp;</p>
 
-div#container {
-    max-width: 30%; 
-    background-color: #4BC400;
+<div class="speakerascii">
+<p>_.-._
+/ \_/ \
+>-(_)-<
+\_/\_/
+'-'</p>
 
-<p> _,-._</p>
-<p>/ \_/ \</p>
-<p>>-(_)-<</p>
-<p>\_/ \_/</p>
-<p>`-'</p></p>
-
-  
-}
-
-
+</div>
 
 <p>&nbsp;</p>
 
