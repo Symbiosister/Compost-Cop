@@ -66,6 +66,7 @@
     border-radius: 25px;
     text-align: center;
     white-space: pre;
+    display: inline-block;
 }
 
 
@@ -88,7 +89,7 @@
 <pre>
  _,-._
 / \_/ \
->-(_)-<    hjw
+>-(_)-< 
 \_/ \_/
   `-'
 </pre>
