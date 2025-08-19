@@ -88,6 +88,11 @@
   text-align: center;
 }
 
+#grid > div {
+    align-self: center;
+}
+
+
 </style>
 </head>
 <body>
